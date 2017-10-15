@@ -1,0 +1,33 @@
+D:\Prabhu Workspace\CopyInfopathFields\CopyInfopathFields\bin\Debug\CopyInfopathFields.exe.config
+D:\Prabhu Workspace\CopyInfopathFields\CopyInfopathFields\obj\Debug\CopyInfopathFields.Properties.Resources.resources
+D:\Prabhu Workspace\CopyInfopathFields\CopyInfopathFields\obj\Debug\CopyInfopathFields.csproj.GenerateResource.Cache
+D:\Prabhu Workspace\CopyInfopathFields\CopyInfopathFields\bin\Debug\CopyInfopathFields.exe
+D:\Prabhu Workspace\CopyInfopathFields\CopyInfopathFields\bin\Debug\CopyInfopathFields.pdb
+D:\Prabhu Workspace\CopyInfopathFields\CopyInfopathFields\bin\Debug\Microsoft.SharePoint.Client.dll
+D:\Prabhu Workspace\CopyInfopathFields\CopyInfopathFields\bin\Debug\Microsoft.SharePoint.Client.Runtime.dll
+D:\Prabhu Workspace\CopyInfopathFields\CopyInfopathFields\bin\Debug\Microsoft.SharePoint.Client.xml
+D:\Prabhu Workspace\CopyInfopathFields\CopyInfopathFields\bin\Debug\Microsoft.SharePoint.Client.Runtime.xml
+D:\Prabhu Workspace\CopyInfopathFields\CopyInfopathFields\obj\Debug\CopyInfopathFields.exe
+D:\Prabhu Workspace\CopyInfopathFields\CopyInfopathFields\obj\Debug\CopyInfopathFields.pdb
+D:\Prabhu Workspace\CopyInfopathFields\CopyInfopathFields\obj\Debug\CopyInfopathFields.MoveInfopathFields.resources
+E:\PrabhuChandar\Copy InfoPath Fields\CopyInfopathFields\bin\Debug\CopyInfopathFields.exe.config
+E:\PrabhuChandar\Copy InfoPath Fields\CopyInfopathFields\obj\Debug\CopyInfopathFields.exe
+E:\PrabhuChandar\Copy InfoPath Fields\CopyInfopathFields\obj\Debug\CopyInfopathFields.pdb
+D:\Prabhu\Copy InfoPath Fields\CopyInfopathFields\bin\Debug\CopyInfopathFields.exe.config
+D:\Prabhu\Copy InfoPath Fields\CopyInfopathFields\bin\Debug\CopyInfopathFields.exe
+D:\Prabhu\Copy InfoPath Fields\CopyInfopathFields\bin\Debug\CopyInfopathFields.pdb
+D:\Prabhu\Copy InfoPath Fields\CopyInfopathFields\obj\Debug\CopyInfopathFields.MoveInfopathFields.resources
+D:\Prabhu\Copy InfoPath Fields\CopyInfopathFields\obj\Debug\CopyInfopathFields.Properties.Resources.resources
+D:\Prabhu\Copy InfoPath Fields\CopyInfopathFields\obj\Debug\CopyInfopathFields.csproj.GenerateResource.Cache
+D:\Prabhu\Copy InfoPath Fields\CopyInfopathFields\obj\Debug\CopyInfopathFields.exe
+D:\Prabhu\Copy InfoPath Fields\CopyInfopathFields\obj\Debug\CopyInfopathFields.pdb
+D:\Prabhu\Copy InfoPath Fields\CopyInfopathFields\bin\Debug\Microsoft.SharePoint.Client.dll
+F:\GitHub\Infopath Data migration\CopyInfopathFields\bin\Debug\CopyInfopathFields.exe.config
+F:\GitHub\Infopath Data migration\CopyInfopathFields\obj\Debug\CopyInfopathFields.exe
+F:\GitHub\Infopath Data migration\CopyInfopathFields\obj\Debug\CopyInfopathFields.pdb
+F:\GitHub\Infopath Data migration\CopyInfopathFields\bin\Debug\CopyInfopathFields.exe
+F:\GitHub\Infopath Data migration\CopyInfopathFields\bin\Debug\CopyInfopathFields.pdb
+F:\GitHub\Infopath Data migration\CopyInfopathFields\bin\Debug\Microsoft.SharePoint.Client.dll
+F:\GitHub\Infopath Data migration\CopyInfopathFields\obj\Debug\CopyInfopathFields.MoveInfopathFields.resources
+F:\GitHub\Infopath Data migration\CopyInfopathFields\obj\Debug\CopyInfopathFields.Properties.Resources.resources
+F:\GitHub\Infopath Data migration\CopyInfopathFields\obj\Debug\CopyInfopathFields.csproj.GenerateResource.Cache
